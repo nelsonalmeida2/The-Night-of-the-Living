@@ -28,6 +28,6 @@ The game's complete structure, including all classes, their properties, methods,
 ## 🧑‍💻 Authors
 
 This project was developed by:
-👨‍💻 Developed by: Nelson Almeida
-📅 Version: 1.0
-📦 License: MIT
+* 👨‍💻 Developed by: Nelson Almeida
+* 📅 Version: 1.0
+* 📦 License: MIT
